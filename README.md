@@ -1,6 +1,6 @@
 # Codex ChatGPT 浏览器扩展安装助手
 
-[简体中文](README.md) | [English](README.en.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
 用于在 Chrome 应用商店受地区限制的环境中，为 Codex 安装 ChatGPT 浏览器扩展（"Control your browser with ChatGPT"），让 Codex 的 Computer use / Chrome 浏览器控制功能恢复正常。
 
@@ -62,7 +62,10 @@ Codex 的浏览器控制依赖一个名为「ChatGPT」的浏览器扩展，通�
 codex-chatgpt-extension-installer/
 ├── install.ps1              # Windows 一键提取脚本
 ├── README.md                # 简体中文说明
+├── README.zh-TW.md          # 繁體中文說明
 ├── README.en.md             # English documentation
+├── README.ja.md             # 日本語ドキュメント
+├── README.ko.md             # 한국어 문서
 └── .gitignore               # 忽略提取出的扩展目录
 ~~~
 

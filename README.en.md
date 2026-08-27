@@ -1,6 +1,6 @@
 # Codex ChatGPT Browser Extension Installer
 
-[简体中文](README.md) | [English](README.en.md)
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
 
 Installs the ChatGPT browser extension ("Control your browser with ChatGPT") for Codex in regions where the Chrome Web Store listing is unavailable, restoring Codex's Computer use / Chrome browser control.
 
@@ -62,7 +62,10 @@ To use a custom output directory:
 codex-chatgpt-extension-installer/
 ├── install.ps1              # One-click extraction script (Windows)
 ├── README.md                # 简体中文说明
+├── README.zh-TW.md          # 繁體中文說明
 ├── README.en.md             # English documentation
+├── README.ja.md             # 日本語ドキュメント
+├── README.ko.md             # 한국어 문서
 └── .gitignore               # Ignores the extracted extension directory
 ~~~
 
