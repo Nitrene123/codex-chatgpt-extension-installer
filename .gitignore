@@ -1,0 +1,6 @@
+# 提取出的扩展目录（不应提交到仓库）
+codex-chatgpt-extension/
+
+# Windows
+Thumbs.db
+Desktop.ini
